@@ -1,0 +1,11 @@
+Implemented Set of Requirements
+
+- Bank can hold up to 20 client accounts
+- Each client has a login and password
+- Each client account can have a chequing and/or savings account
+- All chequings accounts must start above $1000
+- To delete a client all accounts of that client must be at 0$
+- There are three types of users; clients, managers, and maintenance
+	- I did not get time to add a maintenance person, so only clients and managers work
+- Managers are the only people who can setup and delete accounts
+- Managers can see any client account or view a detailed list of all accounts

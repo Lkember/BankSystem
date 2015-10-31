@@ -1,0 +1,13 @@
+Implementing advanced requirements
+
+To add the ability to be able to send files to other users involved 3 variables for each
+person (client and payee). One variable for their account number, another for which account
+they were using, and the last for the amount of money the client was sending. First my
+program would verify the current user has an account, if they don't have an account, then
+exit. If they do, ask them which account to use (and remember). Then ask them for the 
+other users account number. My program would look through all the accounts trying to find
+the specific account number. When found, it would remember this account, and make sure the
+account had a valid chequing/savings account. Then it would ask the user for the amount 
+they want to transfer, and it take money out of the first users account and into the
+other. 
+

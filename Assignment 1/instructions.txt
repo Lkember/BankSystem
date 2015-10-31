@@ -1,0 +1,29 @@
+All coding was done a Mac computer. However, if using an IDE it should run
+fine on Windows and Linux.
+
+To run the bank system, you can start by using your preferred IDE.
+Import the following files:
+account.cpp
+account.hpp
+Authority.cpp
+Authority.hpp
+BankSystem.cpp
+BankSystem.hpp
+main.cpp
+
+Simply run main.cpp with no arguments. 
+Make sure it has access to the other .ccp and .hpp files.
+
+When you run main.ccp there are two accounts you can sign into to begin:
+Manager Account: 
+account:    23971
+password:   1234
+
+Client Account:
+account:    12345
+password:   1234
+
+All other actions and commands will be on screen.
+
+It is assumed that the user will only enter letters when prompted for names.
+For all other input, the user would only be able to input POSITIVE integers.

@@ -1,0 +1,6 @@
+I have learned a lot since the start of this assignment. This was a great refresher, and
+really got me back into Objective-C as well. C++ and C are very similar, but I have found
+C++ easier to get the hang of. 
+
+I did learn about outputting text to files, but unfortunately did not have enough time to 
+implement it into this project.
